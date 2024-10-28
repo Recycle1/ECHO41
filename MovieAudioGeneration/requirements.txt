@@ -1,0 +1,14 @@
+yt-dlp
+ffmpeg
+transformers
+torch
+torchvision
+numpy
+av
+wrapt
+transformers
+librosa
+opencv-python
+soundfile
+nemo_toolkit['all']
+

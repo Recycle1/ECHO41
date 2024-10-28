@@ -1,0 +1,4 @@
+/MovieAudioGeneration/Data/
+/MovieAudioGeneration/videos.pt
+/MovieAudioGeneration/unet_model.pth
+/MovieAudioGeneration/model.onnx
